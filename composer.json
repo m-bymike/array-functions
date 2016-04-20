@@ -1,0 +1,11 @@
+{
+    "name": "sclable/array-functions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Rutz",
+            "email": "michael.rutz@sclable.com"
+        }
+    ],
+    "require": {}
+}
