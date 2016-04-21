@@ -1,11 +1,22 @@
 {
     "name": "sclable/array-functions",
     "license": "MIT",
+    "description": "An array wrapper to normalize php array functions, give them an ObjectOriented and functional programming approach.",
     "authors": [
         {
             "name": "Michael Rutz",
             "email": "michael.rutz@sclable.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^4"
+    },
+    "autoload": {
+        "psr-4": {
+            "sclable\\arrayFunctions\\": "src/"
+        }
+    },
+    "require": {
+        "sclable/coding-standards": "0.1.0.2"
+    }
 }
