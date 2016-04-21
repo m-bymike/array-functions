@@ -130,4 +130,5 @@ nb-configuration.xml
 .nb-gradle/
 
 ### Composer template
+composer.lock
 /vendor/
