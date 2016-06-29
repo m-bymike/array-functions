@@ -1,5 +1,5 @@
 {
-    "name": "sclable/array-functions",
+    "name": "m-bymike/array-functions",
     "license": "MIT",
     "description": "An array wrapper to normalize php array functions, give them an ObjectOriented and functional programming approach.",
     "authors": [
@@ -9,8 +9,8 @@
         }
     ],
     "require-dev": {
-        "phpunit/phpunit": "^4",
-        "sclable/coding-standards": "0.1.0.2"
+        "phpunit/phpunit": "^4|^5",
+        "sclable/coding-standards": "^0.1.0.2"
     },
     "autoload": {
         "psr-4": {
