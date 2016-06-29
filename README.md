@@ -1,7 +1,8 @@
 Sclable Array Functions
 =======================
 
-[![Build Status](https://travis-ci.org/sclable/array-functions.svg?branch=master)](https://travis-ci.org/sclable/array-functions)
+[![Build Status](https://img.shields.io/travis/m-bymike/array-functions/master.svg?style=flat-square)](https://travis-ci.org/m-bymike/array-functions)
+[![Latest Stable Version](https://img.shields.io/packagist/v/m-bymike/array-functions.svg?style=flat-square)](https://gemnasium.com/m-bymike/array-functions)
 
 An array wrapper to normalize php array functions, give them
 an ObjectOriented and functional programming approach.
